@@ -27,14 +27,14 @@ The repository includes two main functions:
 
 2. **Run the Functions**:
     - To find the Elf with the maximum calorie count:
-      ```python
+      \ ```python
       print("Max calories by a single Elf:", max_calories_from_file('elfcals.txt'))
-      ```
+      ``` \
 
     - To find the total calories of the top three Elves:
-      ```python
+      \ ```python
       print("Total calories by top three Elves:", total_calories_top_three('elfcals.txt'))
-      ```
+      ``` \
 
 ## Requirements
 
