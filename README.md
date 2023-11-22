@@ -1,6 +1,5 @@
 # AdventofCode2022-Day1
 
-
 ## Elves Calorie Tracker
 
 This repository contains Python scripts designed to analyze the calorie intake of Santa's Elves during their expedition. The scripts provide solutions for two specific tasks:
